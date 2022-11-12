@@ -111,7 +111,7 @@ twilio==7.12.0
 typing_extensions==4.4.0
 tzdata==2022.1
 uritemplate==4.1.1
-urllib3==1.26.9
+urllib3==1.25.10
 vine==5.0.0
 virtualenv==20.14.1
 waitress==2.1.2
