@@ -1,4 +1,4 @@
-﻿aes==1.0.0
+aes==1.0.0
 amqp==5.1.1
 asgiref==3.5.1
 auto-labeling-pipeline==0.1.21
@@ -84,7 +84,7 @@ pyexcel-io==0.6.6
 pyexcel-xlsx==0.6.0
 PyJWT==2.4.0
 pyparsing==3.0.9
-python-dateutil==1.5
+python-dateutil==2.8.2
 python-dotenv==0.21.0
 python3-openid==3.2.0
 pytz==2022.1
