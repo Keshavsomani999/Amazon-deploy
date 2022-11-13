@@ -120,8 +120,8 @@ STATIC_URL = 'static/'
 EMAIL_USE_TLS = True  
 EMAIL_HOST = 'smtp.office365.com'  
 EMAIL_PORT = 587  
-EMAIL_HOST_USER = 'vaibhavtiwari976@outlook.com'  
-EMAIL_HOST_PASSWORD = 'Vaibhav@976' 
+EMAIL_HOST_USER = 'dashorasachin@outlook.com'  
+EMAIL_HOST_PASSWORD = 'sachin1302' 
 
 
 # Static files (CSS, JavaScript, Images)
