@@ -1,2 +1,15 @@
-Django==4.0.4
-pycryptodome==3.15.0
+aes
+django-heroku
+django-sms
+doccano
+google-cloud-storage
+heroku
+pillow
+pip-chill
+pip-tools
+pipreqs
+pycryptodome
+shellescape
+social-auth-app-django
+twilio
+virtualenv
