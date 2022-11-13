@@ -31,11 +31,7 @@ def cart(request):
         order.save()
         thank = True
         id = order.order_id
-        subject = "Congralation for buying the Products"  
-        html_message = render_to_string('bill.html',{'name': name, 'id':id, 'phone': phone,'email': email,'product': items_json,'price': total})
-        plain_message = strip_tags(html_message)
-        to      =  email
-        mail.send_mail(subject, plain_message, settings.EMAIL_HOST_USER,[to], html_message=html_message)
+        
         param_dict = {
             'MID': 'VcQuvg10977550566952',
             'ORDER_ID': str(id),
