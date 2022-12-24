@@ -1,1 +1,1 @@
-web: gunicorn Amazon.wsgi
+web: gunicorn Amazon.wsgi --log-file -
